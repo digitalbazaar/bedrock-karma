@@ -1,7 +1,7 @@
 {
   "name": "bedrock-karma",
   "version": "0.0.1-0",
-  "description": "Bedrock PKarma-based Test Framework",
+  "description": "Bedrock Karma-based Test Framework",
   "main": "./lib/test",
   "repository": {
     "type": "git",
