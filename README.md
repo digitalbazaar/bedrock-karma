@@ -20,5 +20,7 @@ config.karma.suites['bedrock-foo'] = '/foo/test/tests/**/*.js';
 For more documentation on configuration, see [config.js](./lib/config.js).
 
 
-[bedrock]: https://github.com/digitalbazaar/bedrock
-[karma]: https://github.com/karma-runner/karma
+## Reference
+[bedrock](https://github.com/digitalbazaar/bedrock)
+
+[karma](https://github.com/karma-runner/karma)
