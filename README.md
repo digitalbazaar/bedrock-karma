@@ -8,8 +8,7 @@ npm install bedrock-karma
 ```
 
 ```js
-const bedrock = require('bedrock');
-const config = bedrock.config;
+const {config} = bedrock;
 
 // add karma tests for your module/project to your config file
 config.karma.suites['bedrock-foo'] = '/foo/test/tests/**/*.js';
