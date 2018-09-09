@@ -23,9 +23,8 @@
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.7.0",
-    "bedrock": "^1.12.1",
     "chai": "^4.1.2",
-    "karma": "^2.0.2",
+    "karma": "^3.0.0",
     "karma-babel-preprocessor": "^7.0.0",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^2.2.0",
@@ -36,7 +35,9 @@
     "mocha": "^5.2.0",
     "webpack": "^4.11.1"
   },
-  "peerDependencies": {},
+  "peerDependencies": {
+    "bedrock": "^1.12.1"
+  },
   "directories": {
     "lib": "./lib"
   }
