@@ -1,5 +1,7 @@
 # bedrock-karma ChangeLog
 
+## 1.0.1 - 2018-09-09
+
 ### Changed
 - Upgrade to latest karma.
 
