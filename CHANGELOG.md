@@ -1,5 +1,9 @@
 # bedrock-karma ChangeLog
 
+### Fixed
+- Add missing `regenerator-runtime` for use of `async`
+  in mocha tests.
+
 ## 1.0.2 - 2018-09-09
 
 ### Fixed
