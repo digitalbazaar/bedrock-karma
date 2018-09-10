@@ -1,5 +1,7 @@
 # bedrock-karma ChangeLog
 
+## 1.0.2 - 2018-09-09
+
 ### Fixed
 - Use `http` module wrapper to close bound server handles
   that cannot be reused when running a cluster worker.
