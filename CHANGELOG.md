@@ -1,5 +1,8 @@
 # bedrock-karma ChangeLog
 
+### Added
+- Add Vue.js SFC compiler to enable testing Vue components.
+
 ## 1.0.3 - 2018-09-09
 
 ### Fixed
