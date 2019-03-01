@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 1.2.0 - 2019-02-xx
+## 1.2.0 - 2019-02-28
 
 ### Added
 - Add ability to transpile object spread operators.
