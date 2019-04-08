@@ -1,5 +1,14 @@
 # bedrock-karma ChangeLog
 
+## 1.3.0 - TBD
+
+### Changed
+- Decrease webpack build times via the following changes to the karma webpack
+  configuration:
+  - Change mode to 'development'.
+  - Removing source map options.
+  - Remove babel-loader.
+
 ## 1.2.0 - 2019-02-28
 
 ### Added
