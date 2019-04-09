@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 1.3.0 - TBD
+## 1.3.0 - 2019-04-09
 
 ### Changed
 - Decrease webpack build times via the following changes to the karma webpack
