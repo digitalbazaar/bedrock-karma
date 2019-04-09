@@ -1,5 +1,10 @@
 # bedrock-karma ChangeLog
 
+## 1.4.0 - 2019-04-09
+
+### Changed
+- The karma server now uses https.
+
 ## 1.3.0 - 2019-04-09
 
 ### Changed
