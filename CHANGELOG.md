@@ -1,5 +1,8 @@
 # bedrock-karma ChangeLog
 
+### Changed
+- Update dependencies.
+
 ## 2.2.0 - 2020-09-23
 
 ### Changed
