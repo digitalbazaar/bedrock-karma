@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 2.0.0 - TBD
+## 2.0.0 - 2020-02-19
 
 ### Changed
 - **BREAKING**: Configure for use with bedrock@3 and bedrock-test@5.
