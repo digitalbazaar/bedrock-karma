@@ -1,5 +1,10 @@
 # bedrock-karma ChangeLog
 
+## 2.1.0 - 2020-04-21
+
+### Added
+- Implement coverage for bedrock-web modules.
+
 ## 2.0.0 - 2020-02-19
 
 ### Changed
