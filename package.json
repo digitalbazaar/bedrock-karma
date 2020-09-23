@@ -1,6 +1,6 @@
 {
   "name": "bedrock-karma",
-  "version": "2.1.1-0",
+  "version": "2.2.0",
   "description": "Bedrock Karma-based Test Framework",
   "main": "./lib/test",
   "scripts": {
