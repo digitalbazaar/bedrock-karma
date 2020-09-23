@@ -1,5 +1,10 @@
 # bedrock-karma ChangeLog
 
+## 2.2.0 - 2020-09-23
+
+### Changed
+- Change the order of reports to avoid duplicate console logging.
+
 ## 2.1.0 - 2020-04-21
 
 ### Added
