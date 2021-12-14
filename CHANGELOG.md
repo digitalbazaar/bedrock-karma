@@ -1,7 +1,11 @@
 # bedrock-karma ChangeLog
 
+## 3.0.0 - 202x-xx-xx
+
 ### Changed
+- **BREAKING**: Update for bedrock@4.
 - Update dependencies.
+- Update to more modern webpack usage.
 
 ## 2.2.0 - 2020-09-23
 
