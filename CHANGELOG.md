@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 2.4.0 - 2022-03-xx
+## 2.4.0 - 2022-03-30
 
 ### Changed
 - Update to `karma@6` to address security concerns and very old karma
