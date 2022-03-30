@@ -1,5 +1,12 @@
 # bedrock-karma ChangeLog
 
+## 2.4.0 - 2022-03-xx
+
+### Changed
+- Update to `karma@6` to address security concerns and very old karma
+  dependency. Only breaking changes related to this are dropping unused
+  node 6 and 8 support and unused bluebird promises features.
+
 ## 2.3.0 - 2022-03-30
 
 ### Changed
