@@ -1,5 +1,14 @@
 # bedrock-karma ChangeLog
 
+## 2.3.0 - 2022-03-xx
+
+### Changed
+- Update peer deps:
+  - `bedrock@4.5`
+  - `bedrock-test@6.1.0`.
+- Update internals to use esm style and use `esm.js` to
+  transpile to CommonJS.
+
 ## 2.2.0 - 2020-09-23
 
 ### Changed
