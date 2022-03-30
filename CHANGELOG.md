@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 2.3.0 - 2022-03-xx
+## 2.3.0 - 2022-03-30
 
 ### Changed
 - Update peer deps:
