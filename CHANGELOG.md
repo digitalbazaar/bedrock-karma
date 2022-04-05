@@ -1,5 +1,10 @@
 # bedrock-karma ChangeLog
 
+## 3.1.1 - 2022-04-xx
+
+### Fixed
+- Ensure `node_modules` is excluded from code coverage.
+
 ## 3.1.0 - 2022-04-05
 
 ### Changed
