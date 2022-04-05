@@ -1,5 +1,11 @@
 # bedrock-karma ChangeLog
 
+## 3.0.1 - 2022-04-xx
+
+### Fixed
+- Fix code coverage; require command line import of
+  `coverageConfig.js`.
+
 ## 3.0.0 - 2022-04-05
 
 ### Changed
