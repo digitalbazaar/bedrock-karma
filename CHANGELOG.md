@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 3.0.1 - 2022-04-xx
+## 3.0.1 - 2022-04-05
 
 ### Fixed
 - Fix code coverage; require command line import of
