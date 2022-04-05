@@ -4,11 +4,11 @@ Karma test framework for bedrock modules
 ## Quick Examples
 
 ```
-npm install bedrock-karma
+npm install @bedrock/karma
 ```
 
 ```js
-const {config} = bedrock;
+import {config} from `@bedrock/core`;
 
 // add karma tests for your module/project to your config file
 config.karma.suites['bedrock-foo'] = '/foo/test/tests/**/*.js';
