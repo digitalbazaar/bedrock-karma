@@ -1,5 +1,13 @@
 # bedrock-karma ChangeLog
 
+## 3.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Rename package to `@bedrock/karma`.
+- **BREAKING**: Convert to module (ESM).
+- **BREAKING**: Remove default export.
+- **BREAKING**: Require node 14.x.
+
 ## 2.4.0 - 2022-03-30
 
 ### Changed
