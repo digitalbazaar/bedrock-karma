@@ -1,5 +1,10 @@
 # bedrock-karma ChangeLog
 
+## 3.1.0 - 2022-04-05
+
+### Changed
+- Output `text` coverage report by default.
+
 ## 3.0.1 - 2022-04-05
 
 ### Fixed
