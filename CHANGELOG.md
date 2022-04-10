@@ -1,5 +1,11 @@
 # bedrock-karma ChangeLog
 
+## 3.1.2 - 2022-04-xx
+
+### Fixed
+- Wait to rebind karma server port as `close` event
+  does not mean the port has been unbound.
+
 ## 3.1.1 - 2022-04-05
 
 ### Fixed
