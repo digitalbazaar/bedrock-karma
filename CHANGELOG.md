@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 3.1.2 - 2022-04-xx
+## 3.1.2 - 2022-04-10
 
 ### Fixed
 - Wait to rebind karma server port as `close` event
