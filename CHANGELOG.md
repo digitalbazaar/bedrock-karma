@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 4.0.0 - 2022-xx-xx
+## 4.0.0 - 2022-04-22
 
 ### Changed
 - Update dependencies.
