@@ -6,6 +6,16 @@
 - Update dependencies.
 - Update to more modern webpack usage.
 
+### Added
+- Add `@bedrock/test` `test` command framework targets:
+  - `--framework karma-coverage`: Run coverage with `text`, `text-summary`,
+    `lcovonly`, and local `html` reports.
+  - `--framework karma-coverage-ci`: Run coverage with `text`, `text-summary`,
+    and `lcovonly` reports.
+
+### Removed
+- **BREAKING**: Remove `lib/coverageConfig.js`. Use new `--framework` targets.
+
 ## 3.1.2 - 2022-04-10
 
 ### Fixed
