@@ -1,5 +1,12 @@
 # bedrock-karma ChangeLog
 
+## 5.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/core@6`
+  - `@bedrock/test@8`.
+
 ## 4.0.0 - 2022-04-22
 
 ### Changed
