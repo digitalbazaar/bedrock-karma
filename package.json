@@ -58,8 +58,8 @@
     "jsdoc-to-markdown": "^7.1.1"
   },
   "peerDependencies": {
-    "@bedrock/core": "^5.0.0",
-    "@bedrock/test": "^7.0.0"
+    "@bedrock/core": "^6.0.0",
+    "@bedrock/test": "^8.0.0"
   },
   "directories": {
     "lib": "./lib"
