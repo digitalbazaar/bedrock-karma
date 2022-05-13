@@ -12,6 +12,10 @@
 - Added `@bedrock/core` config object field to help set fallbacks:
   `config.karma.config.webpack.resolve.fallback`
 - Refactor to use more modern karma API.
+- Update babel config that matches `@bedrock/webpack`:
+  - Add minor `corejs` version.
+  - Use `bugfixes`.
+  - Add target of `defaults, not IE 11`. This helps with new `BigInt` issues.
 
 ## 5.0.0 - 2022-04-29
 
