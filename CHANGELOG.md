@@ -5,6 +5,7 @@
 ### Changed
 - Added `@bedrock/core` config object field to help set fallbacks:
   `config.karma.config.webpack.resolve.fallback`
+- Refactor to use more modern karma API.
 
 ## 5.0.0 - 2022-04-29
 
