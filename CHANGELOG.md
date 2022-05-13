@@ -2,6 +2,12 @@
 
 ## 5.1.0 - 2022-xx-xx
 
+### Fixed
+- Change `run_complete` to fail on non-zero `exitCode`. This addresses a
+  problem where the `@bedrock/test` `pass` field was not being set to `false`
+  in the case where karam failed before any tests were run. In such a case,
+  there was a failure exit code but no tests ran so the failure count was zero.
+
 ### Changed
 - Added `@bedrock/core` config object field to help set fallbacks:
   `config.karma.config.webpack.resolve.fallback`
