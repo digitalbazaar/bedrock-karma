@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 5.1.0 - 2022-xx-xx
+## 5.1.0 - 2022-05-12
 
 ### Fixed
 - Change `run_complete` to fail on non-zero `exitCode`. This addresses a
