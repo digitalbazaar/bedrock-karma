@@ -1,11 +1,16 @@
 # bedrock-karma ChangeLog
 
+## 6.0.0 - 2022-xx-xx
+
+### Changed
+- **BREAKING**: Updated dependencies to support vue 3, vue 2 no longer supported.
+
 ## 5.1.0 - 2022-05-12
 
 ### Fixed
 - Change `run_complete` to fail on non-zero `exitCode`. This addresses a
   problem where the `@bedrock/test` `pass` field was not being set to `false`
-  in the case where karam failed before any tests were run. In such a case,
+  in the case where karma failed before any tests were run. In such a case,
   there was a failure exit code but no tests ran so the failure count was zero.
 
 ### Changed
