@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 6.0.0 - 2022-xx-xx
+## 6.0.0 - 2022-07-13
 
 ### Changed
 - **BREAKING**: Updated dependencies to support vue 3, vue 2 no longer supported.
