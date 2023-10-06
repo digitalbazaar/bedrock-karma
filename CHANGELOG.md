@@ -1,5 +1,10 @@
 # bedrock-karma ChangeLog
 
+## 6.3.0 - 2024-xx-xx
+
+### Changed
+- Fail on webpack error.
+
 ## 6.2.0 - 2024-02-29
 
 ### Changed
