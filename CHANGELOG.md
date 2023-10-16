@@ -5,7 +5,6 @@
 ### Added
 - Add `@vue/compiler-sfc@3.3.4` dep.
 
-
 ## 6.0.0 - 2022-07-13
 
 ### Changed
