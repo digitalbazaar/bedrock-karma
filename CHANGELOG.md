@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 6.1.0 - 2023-10-TBD
+## 6.1.0 - 2023-10-16
 
 ### Added
 - Add `@vue/compiler-sfc@3.3.4` dep.
