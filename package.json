@@ -29,6 +29,7 @@
     "@babel/preset-env": "^7.16.11",
     "@babel/runtime": "^7.17.9",
     "@jsdevtools/coverage-istanbul-loader": "^3.0.5",
+    "@vue/compiler-sfc": "^3.3.4",
     "babel-loader": "^8.2.5",
     "chai": "^4.3.6",
     "core-js": "^3.22.2",
