@@ -3,7 +3,7 @@
   "version": "6.1.1-0",
   "type": "module",
   "description": "Bedrock Karma-based Test Framework",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "Apache-2.0",
   "main": "./lib/index.js",
   "scripts": {
     "lint": "eslint lib"
