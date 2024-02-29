@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 6.2.0 - 2024-mm-dd
+## 6.2.0 - 2024-02-29
 
 ### Changed
 - Relicense under the Apache-2.0 license.
