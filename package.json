@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/karma",
-  "version": "7.0.0",
+  "version": "7.0.1-0",
   "type": "module",
   "description": "Bedrock Karma-based Test Framework",
   "license": "Apache-2.0",
