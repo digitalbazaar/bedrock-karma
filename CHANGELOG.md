@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 7.0.0 - 2024-xx-xx
+## 7.0.0 - 2024-03-14
 
 ### Changed
 - Fail on webpack error.
