@@ -1,5 +1,10 @@
 # bedrock-karma ChangeLog
 
+## 7.0.1 - 2024-03-xx
+
+### Changed
+- Limit distributed files.
+
 ## 7.0.0 - 2024-03-14
 
 ### Changed

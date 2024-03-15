@@ -8,6 +8,12 @@
   "scripts": {
     "lint": "eslint lib"
   },
+  "files": [
+    ".reuse/dep5",
+    "LICENSES/**/*.txt",
+    "lib/**/*.js",
+    "pki/**/{*.crt,*.key,*.md}"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/digitalbazaar/bedrock-karma"
