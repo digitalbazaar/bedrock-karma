@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "main": "./lib/index.js",
   "scripts": {
-    "lint": "eslint lib"
+    "lint": "eslint --ext .cjs,.js ."
   },
   "files": [
     ".reuse/dep5",
@@ -59,9 +59,10 @@
     "webpack": "^5.72.0"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-digitalbazaar": "^2.8.0",
-    "eslint-plugin-jsdoc": "^39.2.7"
+    "eslint": "^8.57.0",
+    "eslint-config-digitalbazaar": "^5.2.0",
+    "eslint-plugin-jsdoc": "^48.11.0",
+    "eslint-plugin-unicorn": "^55.0.0"
   },
   "peerDependencies": {
     "@bedrock/core": "^6.0.0",
