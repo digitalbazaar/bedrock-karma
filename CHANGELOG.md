@@ -1,5 +1,10 @@
 # bedrock-karma ChangeLog
 
+## 8.0.0 - 2026-xx-xx
+
+### Changed
+- Update dev dependencies.
+
 ## 7.0.1 - 2024-03-14
 
 ### Changed
