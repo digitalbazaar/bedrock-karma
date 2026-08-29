@@ -3,6 +3,8 @@
 ## 8.0.0 - 2026-xx-xx
 
 ### Changed
+- Update minor dependencies.
+  - Update `@babel/preset-env` config to use `corejs: '3.50'`.
 - Update dev dependencies.
 
 ## 7.0.1 - 2024-03-14
