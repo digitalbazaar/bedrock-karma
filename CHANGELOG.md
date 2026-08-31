@@ -3,11 +3,13 @@
 ## 8.0.0 - 2026-xx-xx
 
 ### Changed
+- **BREAKING**: Update dependencies.
+  - `mocha@12`
 - Update dependencies.
+  - **NOTE**: Some of these might be breaking in edge cases.
   - `babel-loader@10`
   - `css-loader@7`
   - `karma-sourcemap-loader@0.4.0`
-  - `mocha@12`
   - `regenerator-runtime@0.14.1`
   - `sass-loader@17`
   - `webpack@5.110.2`
