@@ -3,11 +3,19 @@
 ## 8.0.0 - 2026-xx-xx
 
 ### Changed
+- Update dependencies.
+  - `babel-loader@10`
+  - `css-loader@7`
+  - `karma-sourcemap-loader@0.4.0`
+  - `mocha@12`
+  - `regenerator-runtime@0.14.1`
+  - `sass-loader@17`
+  - `webpack@5.110.2`
+- Update minor dependencies.
+  - Update `@babel/preset-env` config to use `corejs: '3.50'`.
 - **BREAKING**: Update peer dependencies.
   - `@bedrock/core@6.3.0`
   - `@bedrock/test@9`
-- Update minor dependencies.
-  - Update `@babel/preset-env` config to use `corejs: '3.50'`.
 - Update dev dependencies.
 
 ## 7.0.1 - 2024-03-14
