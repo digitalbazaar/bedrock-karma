@@ -17,6 +17,8 @@
   - `@bedrock/core@6.3.0`
   - `@bedrock/test@9`
 - Update dev dependencies.
+- Remove unused dependencies.
+  - `vue-template-compiler`
 
 ## 7.0.1 - 2024-03-14
 
