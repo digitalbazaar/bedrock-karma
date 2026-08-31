@@ -21,6 +21,9 @@
 - Update dev dependencies.
 - Remove unused dependencies.
   - `vue-template-compiler`
+- Update supported platforms.
+  - Update `engines.node` to `>=22`.
+  - Update README requirements section.
 
 ## 7.0.1 - 2024-03-14
 
