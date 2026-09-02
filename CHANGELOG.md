@@ -12,12 +12,12 @@
   - `karma-sourcemap-loader@0.4.0`
   - `regenerator-runtime@0.14.1`
   - `sass-loader@17`
-  - `webpack@5.110.2`
+  - `webpack@5.110.3`
 - Update minor dependencies.
   - Update `@babel/preset-env` config to use `corejs: '3.50'`.
 - **BREAKING**: Update peer dependencies.
   - `@bedrock/core@6.3.0`
-  - `@bedrock/test@9`
+  - `@bedrock/test@10`
 - Update dev dependencies.
 - Remove unused dependencies.
   - `vue-template-compiler`
