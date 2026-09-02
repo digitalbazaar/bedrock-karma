@@ -1,6 +1,6 @@
 # bedrock-karma ChangeLog
 
-## 8.0.0 - 2026-xx-xx
+## 8.0.0 - 2026-09-02
 
 ### Changed
 - **BREAKING**: Update dependencies.
